@@ -1,6 +1,10 @@
 # fetchjobs
 All encompassing tool for your job search (hopefully)
 
+Possible future features:
+1. use google advanced search to also find jobs with googlesearch-python package
+2. get around bot scraping barriers on ziprecruiter and other sites
+
 Setup Instructions:
 
 1.  Install dependencies: pip install -r requirements.txt
